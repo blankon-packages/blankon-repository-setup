@@ -1,0 +1,13 @@
+Source: blankon-repository-setup
+Section: blankon-installer
+Priority: extra
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+Build-Depends: debhelper (>= 7), cdbs
+Standards-Version: 3.8.3
+Homepage: http://dev.blankonlinux.or.id/
+
+Package: blankon-repository-setup
+Architecture: all
+Depends: blankon-installer
+Description: blankon repository setup for blankon installer
+ blankon repository setup for blankon installer
