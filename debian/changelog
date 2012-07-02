@@ -1,3 +1,10 @@
+blankon-repository-setup (0.2) rote; urgency=low
+
+  * Update sorces.list 
+    - Added updates & secuirty 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 02 Jul 2012 19:13:23 +0700
+
 blankon-repository-setup (0.1) rote; urgency=low
 
   * Initial release 

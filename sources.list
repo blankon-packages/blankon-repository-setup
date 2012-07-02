@@ -1,2 +1,15 @@
-deb http://arsip-dev.blankonlinux.or.id/blankon-debian rote main restricted extras extras-restricted
-deb-src http://arsip-dev.blankonlinux.or.id/blankon-debian rote main restricted extras extras-restricted
+## Repository BlankOn Rote
+
+deb http://arsip.blankonlinux.or.id/blankon rote main restricted extras extras-restricted
+deb-src http://arsip.blankonlinux.or.id/blankon rote main restricted extras extras-restricted
+
+## Repository BlankOn Rote Updates
+
+deb http://arsip.blankonlinux.or.id/blankon rote-updates main restricted extras extras-restricted
+deb-src http://arsip.blankonlinux.or.id/blankon rote-updates main restricted extras extras-restricted
+
+## Repository BlankOn Rote Security
+
+deb http://arsip.blankonlinux.or.id/blankon rote-security main restricted extras extras-restricted
+deb-src http://arsip.blankonlinux.or.id/blankon rote-security main restricted extras extras-restricted
+
