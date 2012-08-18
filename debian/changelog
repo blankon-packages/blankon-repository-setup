@@ -1,3 +1,9 @@
+blankon-repository-setup (0.3) suroboyo; urgency=low
+
+  * Repository for suroboyo
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 18 Aug 2012 22:29:39 +0700
+
 blankon-repository-setup (0.2) rote; urgency=low
 
   * Update sorces.list 
