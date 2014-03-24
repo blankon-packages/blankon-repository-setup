@@ -1,14 +1,14 @@
-## Repository BlankOn Suroboyo
+## Repository BlankOn X Tambora
 
 deb http://arsip.blankonlinux.or.id/blankon tambora main restricted extras extras-restricted
 deb-src http://arsip.blankonlinux.or.id/blankon tambora main restricted extras extras-restricted
 
-## Repository BlankOn Suroboyo Updates
+## Repository BlankOn X Tambora Updates
 
 deb http://arsip.blankonlinux.or.id/blankon tambora-updates main restricted extras extras-restricted
 deb-src http://arsip.blankonlinux.or.id/blankon tambora-updates main restricted extras extras-restricted
 
-## Repository BlankOn Suroboyo Security
+## Repository BlankOn X Tambora Security
 
 deb http://arsip.blankonlinux.or.id/blankon tambora-security main restricted extras extras-restricted
 deb-src http://arsip.blankonlinux.or.id/blankon tambora-security main restricted extras extras-restricted
