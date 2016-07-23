@@ -1,3 +1,9 @@
+blankon-repository-setup (0.6) tambora; urgency=medium
+
+  * Drop Depends
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 23 Jul 2016 07:28:27 +0700
+
 blankon-repository-setup (0.5) tambora; urgency=low
 
   * Fix Description Repo #1417

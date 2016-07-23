@@ -8,6 +8,6 @@ Homepage: http://dev.blankonlinux.or.id/
 
 Package: blankon-repository-setup
 Architecture: all
-Depends: blankon-installer
+#Depends: blankon-installer
 Description: blankon repository setup for blankon installer
  blankon repository setup for blankon installer
