@@ -1,3 +1,9 @@
+blankon-repository-setup (0.7) uluwatu; urgency=medium
+
+  * Testing for uluwatu
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Sun, 21 May 2017 13:28:26 +0800
+
 blankon-repository-setup (0.6) tambora; urgency=medium
 
   * Drop Depends

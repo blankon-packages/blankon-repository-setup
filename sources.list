@@ -1,15 +1,14 @@
-## Repository BlankOn X Tambora
+## Repository BlankOn XI Uluwatu
 
-deb http://arsip.blankonlinux.or.id/blankon tambora main restricted extras extras-restricted
-deb-src http://arsip.blankonlinux.or.id/blankon tambora main restricted extras extras-restricted
+deb http://ananda.blankon.id/uluwatu uluwatu main restricted extras extras-restricted
+deb-src http://ananda.blankon.id/uluwatu uluwatu main restricted extras extras-restricted
 
-## Repository BlankOn X Tambora Updates
+## Repository BlankOn XI Uluwatu Updates
 
-deb http://arsip.blankonlinux.or.id/blankon tambora-updates main restricted extras extras-restricted
-deb-src http://arsip.blankonlinux.or.id/blankon tambora-updates main restricted extras extras-restricted
+##deb http://ananda.blankon.id/uluwatu uluwatu-updates main restricted extras extras-restricted
+##deb-src http://ananda.blankon.id/uluwatu uluwatu-updates main restricted extras extras-restricted
 
-## Repository BlankOn X Tambora Security
+## Repository BlankOn XI Uluwatu Security
 
-deb http://arsip.blankonlinux.or.id/blankon tambora-security main restricted extras extras-restricted
-deb-src http://arsip.blankonlinux.or.id/blankon tambora-security main restricted extras extras-restricted
-
+##deb http://ananda.blankon.id/uluwatu uluwatu-security main restricted extras extras-restricted
+##deb-src http://ananda.blankon.id/uluwatu uluwatu-security main restricted extras extras-restricted
