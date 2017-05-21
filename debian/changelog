@@ -1,3 +1,9 @@
+blankon-repository-setup (0.8) uluwatu; urgency=medium
+
+  * Adding compat file
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Sun, 21 May 2017 19:55:52 +0800
+
 blankon-repository-setup (0.7) uluwatu; urgency=medium
 
   * Testing for uluwatu
