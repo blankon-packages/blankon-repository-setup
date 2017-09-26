@@ -1,7 +1,7 @@
 ## Repository BlankOn XI Uluwatu
 
-deb http://ananda.blankon.id/uluwatu uluwatu main restricted extras extras-restricted
-deb-src http://ananda.blankon.id/uluwatu uluwatu main restricted extras extras-restricted
+deb http://arsip-dev.blankonlinux.or.id/uluwatu uluwatu main restricted extras extras-restricted
+deb-src http://arsip-dev.blankonlinux.or.id/uluwatu uluwatu main restricted extras extras-restricted
 
 ## Repository BlankOn XI Uluwatu Updates
 

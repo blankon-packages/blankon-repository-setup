@@ -1,3 +1,9 @@
+blankon-repository-setup (0.9) uluwatu; urgency=medium
+
+  * Change to arsip-dev boi
+
+ -- AnTo SamalonA <ansamsoftdev@gmail.com>  Tue, 26 Sep 2017 11:13:49 +0800
+
 blankon-repository-setup (0.8) uluwatu; urgency=medium
 
   * Adding compat file
