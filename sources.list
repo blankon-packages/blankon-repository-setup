@@ -10,5 +10,5 @@ deb-src http://arsip.blankonlinux.or.id/blankon verbeek-updates main restricted 
 
 ## Repository BlankOn 12 Verbeek Security
 
-deb http://arsip.blankon.id/blankon verbeek-security main restricted extras extras-restricted
+deb http://arsip.blankonlinux.or.id/blankon verbeek-security main restricted extras extras-restricted
 deb-src http://arsip.blankonlinux.or.id/blankon verbeek-security main restricted extras extras-restricted
